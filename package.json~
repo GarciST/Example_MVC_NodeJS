@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "1.0.4",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "tsc && node app"
+  },
+  "author": "You",
+  "license": "ISC",
+  "dependencies": {
+    "back-js": "1.0.0-beta"
+  }
+}

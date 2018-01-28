@@ -1,0 +1,14 @@
+{
+  "name": "Academy",
+  "version": "1.0.0",
+  "description": "Example MVC, NodeJS + Typescript + MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "tsc && node app"
+  },
+  "author": "Santiago Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "back-js": "1.0.0-beta"
+  }
+}
