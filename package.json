@@ -9,6 +9,7 @@
   "author": "Santiago Garcia",
   "license": "ISC",
   "dependencies": {
-    "back-js": "1.0.0-beta"
+    "back-js": "1.0.0-beta",
+    "mongoose": "4.13.10"
   }
 }
